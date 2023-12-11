@@ -60,11 +60,11 @@ Linux通过/proc虚拟文件系统，向用户空间提供了系统内部状态�
 9 guest(通常缩写为 guest)，代表通过虚拟化运行其他操作系统的时间，也就是运行虚拟机的CPU时间。10 guest_nice (通常缩写为gnice)，代表以低优先级运行虚拟机的时间。
 ```
 
-    ![img](../img/CPU.png)
+![img](../img/CPU.png)
 
 为了计算CPU使用率，取间隔一段时间(比如3秒)的两次值，作差后，再计算出这段时间内的平均CPU使用率
 
-    ![img](../img/CPU_AVG.png)
+![img](../img/CPU_AVG.png)
 
 #### cpu softirqs
 
