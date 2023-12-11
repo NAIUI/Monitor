@@ -97,7 +97,7 @@ cd work/cmake/display_monitor
 
 ├── display_monitor			UI
 ├── doc					文档说明
-├── docker			
+├── docker		
 │   ├── build
 │   │   ├── apt
 │   │   └── install
@@ -125,7 +125,20 @@ cd work/cmake/display_monitor
 
 ![项目架构](.\img\PRO.png)
 
+## 说明
+
+[Docker模块](./doc/Docker_module.md)
+
+[Protobuf模块](./doc/protobuf_module.md)
+
+[gRPC模块](./doc/gRPC_module.md)
+
+[Monitor模块](./doc/Monitor_module.md)
+
+[Display模块](./doc/Display_module.md)
+
 ## TODO
 
+* [ ] gRPC与Protobuf模块说明
 * [ ] 监控日志存储
 * [ ] UI可视化优化
