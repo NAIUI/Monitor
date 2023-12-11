@@ -123,7 +123,7 @@ cd work/cmake/display_monitor
 
 ## 项目架构
 
-    ![img](./img/项目架构.png)
+    ![项目架构](.//img//项目架构.png)
 
 ## TODO
 
